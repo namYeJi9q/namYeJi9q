@@ -1,6 +1,9 @@
 ### Hi there 👋 
-## I'm Yeji, a front-end developer.
-![image](https://user-images.githubusercontent.com/84209266/221187228-d7e319b9-f0ca-4c26-b074-e6f00ee8a6f0.png)
+<div style={display:flex}>
+<h2> I'm Yeji, a front-end developer.</h2>
+<img align='right' src='https://user-images.githubusercontent.com/84209266/221187228-d7e319b9-f0ca-4c26-b074-e6f00ee8a6f0.png' width='300' />
+</div>
+
 <!--
 **namYeJi9q/namYeJi9q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
