@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+## I'm Yeji, a front-end developer.
+<img src='healthhub.sg/sites/assets/Assets/Programs/mental-health/images/img_10_bc-when-to-say-hi-desktop.png'>
 
 <!--
 **namYeJi9q/namYeJi9q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
