@@ -8,9 +8,9 @@
 ![React.js](https://img.shields.io/badge/React.js-blue?style=plastic&logo)
 ![Next.js](https://img.shields.io/badge/Next.js-11a800?style=plastic&logo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f1bff?style=plastic&logo)
-![Git](https://img.shields.io/badge/Git-red?style=plastic&logo)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo)
 ![SCSS](https://img.shields.io/badge/SCSS-orange?style=plastic&logo)
-
+![Git](https://img.shields.io/badge/Git-red?style=plastic&logo)
 <!--
 **namYeJi9q/namYeJi9q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
