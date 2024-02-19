@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo)
 ![SCSS](https://img.shields.io/badge/SCSS-orange?style=plastic&logo)
 ![Git](https://img.shields.io/badge/Git-red?style=plastic&logo)
+![Figma](https://img.shields.io/badge/Figma-pink?style=plastic&logo)
 <!--
 **namYeJi9q/namYeJi9q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
