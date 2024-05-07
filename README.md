@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img align='right' src='https://user-images.githubusercontent.com/84209266/221187228-d7e319b9-f0ca-4c26-b074-e6f00ee8a6f0.png' width='300' />
+<img align='right' src='https://user-images.githubusercontent.com/84209266/221187228-d7e319b9-f0ca-4c26-b074-e6f00ee8a6f0.png' width='300' position=relative, z-index=999 />
 <h2> I'm Yeji, a front-end developer.</h2>
 
 ![React.js](https://img.shields.io/badge/React.js-blue?style=plastic&logo)
