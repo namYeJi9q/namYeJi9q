@@ -1,7 +1,9 @@
 ### Hi there 👋 
 
 <img align='right' src='https://user-images.githubusercontent.com/84209266/221187228-d7e319b9-f0ca-4c26-b074-e6f00ee8a6f0.png' width='300' position=absolute, z-index=9999 />
-<h2> I'm Yeji, a front-end developer.</h2>
+<div style="font-size: 1.5em; font-weight: bold; margin: 20px 0;">
+  I'm Yeji, a front-end developer.
+</div>
 
 ![React.js](https://img.shields.io/badge/React.js-blue?style=plastic&logo)
 ![Next.js](https://img.shields.io/badge/Next.js-11a800?style=plastic&logo)
